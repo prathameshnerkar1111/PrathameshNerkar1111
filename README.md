@@ -37,11 +37,16 @@ I'm a **Senior Software Test Engineer** with **3+ years of comprehensive QA expe
 
 ### 📌 Featured Projects
 
+### 📌 Featured Projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Playwright E2E Framework](https://github.com/YOUR_GITHUB_USERNAME/playwright-ts-e2e)** | Scalable UI test automation framework built with Page Object Model (POM), parallel execution, cross-browser cloud runs, and HTML/Allure reporting for BFSI/Retail workflows. | `Playwright`, `TypeScript`, `BrowserStack`, `GitHub Actions` |
-| **[Microservices API Test Suite](https://github.com/YOUR_GITHUB_USERNAME/api-automation-suite)** | Automated REST API validation suite covering contract testing, payload schema checks, and end-to-end data integrity verification. | `REST Assured`, `Postman`, `JSON Schema` |
-| **[QA Test Management Templates](https://github.com/YOUR_GITHUB_USERNAME/qa-stlc-templates)** | Reusable Agile STLC artifacts including test plans, regression trackers, and defect triage templates for Scrum teams. | `Jira`, `Zephyr`, `TestRail`, `Confluence`, `Excel` |
+| [**Full-Stack QA Agent Studio**](https://github.com/prathameshnerkar1111/full-stack-qa-agent-studio)<br>*( [Live Demo](https://prathameshnerkar1111.github.io/full-stack-qa-agent-studio/) )* | Modular 9-agent AI QA engineering workbench covering requirement analysis, BVA test data, Playwright UI/API script generation, Postman v2.1 collection export, defect root-cause triage, regression selection, and multi-tab Excel/RTM reporting. | `JavaScript`, `Gemini API`, `Playwright`, `Postman`, `SheetJS` |
+| [**FlipMart — E-Commerce QA Sandbox**](https://github.com/prathameshnerkar1111/flipmart-qa-sandbox)<br>*( [Live Demo](https://prathameshnerkar1111.github.io/flipmart-qa-sandbox/) )* | Retail UI & Playwright automation sandbox (120 products, Shadow DOM, isolated payment iframe, QA Chaos bar) backed by IEEE 829 / ISO 29119 QA documentation, bi-directional RTM, and 50 functional test cases. | `Playwright`, `TypeScript`, `HTML/JS`, `IEEE 829`, `GitHub Pages` |
+| [**NexaBank — Banking QA & API Lab**](https://github.com/prathameshnerkar1111/nexabank-qa-lab-v2)<br>*( [Live Demo](https://prathameshnerkar1111.github.io/nexabank-qa-lab-v2/) )* | BFSI digital banking & REST API testing sandbox featuring INR transfer limit rules, idempotency protection, Swagger lab, and complete functional QA artifacts. | `Playwright`, `Postman`, `REST Assured`, `REST API`, `Swagger` |
+| [**Playwright E2E Framework**](https://github.com/prathameshnerkar1111) | Scalable UI test automation framework built with Page Object Model (POM), parallel execution, cross-browser cloud runs, and HTML/Allure reporting for BFSI/Retail workflows. | `Playwright`, `TypeScript`, `BrowserStack`, `GitHub Actions` |
+| [**Microservices API Test Suite**](https://github.com/prathameshnerkar1111) | Automated REST API validation suite covering contract testing, payload schema checks, and end-to-end data integrity verification. | `REST Assured`, `Postman`, `JSON Schema` |
+| [**QA Test Management Templates**](https://github.com/prathameshnerkar1111) | Reusable Agile STLC artifacts including test plans, regression trackers, and defect triage templates for Scrum teams. | `Jira`, `Zephyr`, `TestRail`, `Confluence`, `Excel` |
 
 ---
 
