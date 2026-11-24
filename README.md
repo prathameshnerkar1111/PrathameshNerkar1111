@@ -37,8 +37,6 @@ I'm a **Senior Software Test Engineer** with **3+ years of comprehensive QA expe
 
 ### 📌 Featured Projects
 
-### 📌 Featured Projects
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**Full-Stack QA Agent Studio**](https://github.com/prathameshnerkar1111/full-stack-qa-agent-studio)<br>*( [Live Demo](https://prathameshnerkar1111.github.io/full-stack-qa-agent-studio/) )* | Modular 9-agent AI QA engineering workbench covering requirement analysis, BVA test data, Playwright UI/API script generation, Postman v2.1 collection export, defect root-cause triage, regression selection, and multi-tab Excel/RTM reporting. | `JavaScript`, `Gemini API`, `Playwright`, `Postman`, `SheetJS` |
