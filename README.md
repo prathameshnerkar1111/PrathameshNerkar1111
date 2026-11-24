@@ -62,26 +62,30 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
 
 ---
 
+---
+
 ### 🏆 Certifications & Continuous Learning
 
-| Certification / Course | Issuing Organization | Focus Area | Completed |
-| :--- | :--- | :--- | :---: |
-| **ISTQB® Certified Tester — Foundation Level (CTFL)** | ISTQB® | Software Testing & QA Standards | Certified |
-| **Playwright E2E UI & API Automation with TypeScript** | Udemy | Test Automation & SDET | Completed |
-| **Generative AI in Software Testing Training** *([Verify](https://coursera.org/verify/Z31C2QZ3XGY1))* | Simplilearn × Coursera | AI-Driven QA & Testing | Oct 2026 |
-| **GenAI for QA — Masterclass in Testing & Automation** *([Verify](https://coursera.org/verify/DEQD1NM4RT30))* | Packt × Coursera | AI Test Automation | Oct 2026 |
-| **GitHub Foundations: GitHub Copilot** | Pluralsight Skills | AI-Assisted Engineering | Aug 2026 |
-| **Mindtree — SWIFT (Domain Curriculum)** *(ID: `EK1QXNE94472E2`)* | Imarticus Learning × Mindtree (NSDC / Skill India) | BFSI & Cross-Border Messaging | Verified |
-| **Mindtree — Payment (Domain Curriculum)** *(ID: `EK1XVSK50691K9`)* | Imarticus Learning × Mindtree (NSDC / Skill India) | BFSI & Payments Domain | Verified |
-| **Introduction to Generative AI** *([Verify](https://coursera.org/verify/7DSOUJ8047YX))* | Google Cloud × Coursera | Generative AI | Sep 2026 |
-| **Prompt Engineering for Improved Performance** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
-| **Prompt Engineering Best Practices** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
-| **Getting Started on Prompt Engineering with Generative AI** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
-| **(Generative AI Leader) Fundamentals of Gen AI** | Pluralsight Skills | Generative AI | Jul 2026 |
-| **Generative AI Foundations: Ethics, Issues, and Limitations** | Pluralsight Skills | Responsible AI | Jul 2026 |
-| **GenAI Advanced Technologies** *(Course & Skill Completion)* | IIHT Techademy | Generative AI | Nov 2024 |
-| **Gen AI Unveiled: A Journey into the Future of Intelligence** | IIHT Techademy | Generative AI | Oct 2024 |
+**QA, Test Automation & AI in Testing**  
+![ISTQB CTFL](https://img.shields.io/badge/ISTQB_CTFL-Foundation_Level-0052CC?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Udemy Playwright](https://img.shields.io/badge/Udemy-Playwright_UI_%26_API_(TypeScript)-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+[![Generative AI in Software Testing](https://img.shields.io/badge/Simplilearn_%C3%97_Coursera-GenAI_in_Software_Testing_(Oct_2026)-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/verify/Z31C2QZ3XGY1)
+[![GenAI for QA Masterclass](https://img.shields.io/badge/Packt_%C3%97_Coursera-GenAI_for_QA_Masterclass_(Oct_2026)-F36F21?style=for-the-badge&logo=packt&logoColor=white)](https://coursera.org/verify/DEQD1NM4RT30)
+![GitHub Copilot](https://img.shields.io/badge/Pluralsight-GitHub_Foundations:_Copilot_(Aug_2026)-F05B28?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+**BFSI & Payments Domain (Imarticus Learning × Mindtree)**  
+![Mindtree SWIFT](https://img.shields.io/badge/Mindtree-SWIFT_Domain_(EK1QXNE94472E2)-0F766E?style=for-the-badge)
+![Mindtree Payment](https://img.shields.io/badge/Mindtree-Payment_Domain_(EK1XVSK50691K9)-047857?style=for-the-badge)
+
+**Generative AI & Prompt Engineering**  
+[![Introduction to Generative AI](https://img.shields.io/badge/Google_Cloud_%C3%97_Coursera-Intro_to_Generative_AI_(Sep_2026)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://coursera.org/verify/7DSOUJ8047YX)
+![Prompt Engineering Improved Performance](https://img.shields.io/badge/Pluralsight-Prompt_Eng:_Improved_Performance_(Jul_2026)-6366F1?style=for-the-badge)
+![Prompt Engineering Best Practices](https://img.shields.io/badge/Pluralsight-Prompt_Eng:_Best_Practices_(Jul_2026)-6366F1?style=for-the-badge)
+![Getting Started Prompt Engineering](https://img.shields.io/badge/Pluralsight-Prompt_Eng:_Getting_Started_(Jul_2026)-6366F1?style=for-the-badge)
+![Fundamentals of Gen AI](https://img.shields.io/badge/Pluralsight-GenAI_Leader:_Fundamentals_(Jul_2026)-8B5CF6?style=for-the-badge)
+![GenAI Foundations Ethics](https://img.shields.io/badge/Pluralsight-GenAI_Ethics_%26_Limitations_(Jul_2026)-8B5CF6?style=for-the-badge)
+![GenAI Advanced Technologies](https://img.shields.io/badge/IIHT_Techademy-GenAI_Advanced_Technologies_(Nov_2024)-334155?style=for-the-badge)
+![Gen AI Unveiled](https://img.shields.io/badge/IIHT_Techademy-Gen_AI_Unveiled_(Oct_2024)-334155?style=for-the-badge)
 ### 📊 GitHub Stats
 
 <p align="left">
