@@ -62,10 +62,6 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
 
 ---
 
----
-
----
-
 ### 🏆 Certifications & Continuous Learning
 
 <table>
@@ -155,6 +151,9 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
     </td>
   </tr>
 </table>
+
+----
+
 ### 📊 GitHub Stats
 
 <p align="left">
