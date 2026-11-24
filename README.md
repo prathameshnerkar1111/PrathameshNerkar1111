@@ -62,6 +62,23 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
 
 ---
 
+### 🏆 Certifications & Continuous Learning
+
+| Certification / Course | Issuing Organization | Focus Area | Completed |
+| :--- | :--- | :--- | :---: |
+| **ISTQB® Certified Tester — Foundation Level (CTFL)** | ISTQB® | Software Testing & QA Standards | Certified |
+| **Playwright E2E UI & API Automation with TypeScript** | Udemy | Test Automation & SDET | Completed |
+| **Mindtree — Payment (Domain Curriculum)** *(ID: `EK1XVSK50691K9`)* | Imarticus Learning × Mindtree (NSDC / Skill India) | BFSI & Payments Domain | Verified |
+| **Prompt Engineering for Improved Performance** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
+| **Prompt Engineering Best Practices** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
+| **Getting Started on Prompt Engineering with Generative AI** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
+| **(Generative AI Leader) Fundamentals of Gen AI** | Pluralsight Skills | Generative AI | Jul 2026 |
+| **Generative AI Foundations: Ethics, Issues, and Limitations** | Pluralsight Skills | Responsible AI | Jul 2026 |
+| **GenAI Advanced Technologies** *(Course & Skill Completion)* | IIHT Techademy | Generative AI | Nov 2024 |
+| **Gen AI Unveiled: A Journey into the Future of Intelligence** | IIHT Techademy | Generative AI | Oct 2024 |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
