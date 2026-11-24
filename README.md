@@ -68,7 +68,12 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
 | :--- | :--- | :--- | :---: |
 | **ISTQB® Certified Tester — Foundation Level (CTFL)** | ISTQB® | Software Testing & QA Standards | Certified |
 | **Playwright E2E UI & API Automation with TypeScript** | Udemy | Test Automation & SDET | Completed |
+| **Generative AI in Software Testing Training** *([Verify](https://coursera.org/verify/Z31C2QZ3XGY1))* | Simplilearn × Coursera | AI-Driven QA & Testing | Oct 2026 |
+| **GenAI for QA — Masterclass in Testing & Automation** *([Verify](https://coursera.org/verify/DEQD1NM4RT30))* | Packt × Coursera | AI Test Automation | Oct 2026 |
+| **GitHub Foundations: GitHub Copilot** | Pluralsight Skills | AI-Assisted Engineering | Aug 2026 |
+| **Mindtree — SWIFT (Domain Curriculum)** *(ID: `EK1QXNE94472E2`)* | Imarticus Learning × Mindtree (NSDC / Skill India) | BFSI & Cross-Border Messaging | Verified |
 | **Mindtree — Payment (Domain Curriculum)** *(ID: `EK1XVSK50691K9`)* | Imarticus Learning × Mindtree (NSDC / Skill India) | BFSI & Payments Domain | Verified |
+| **Introduction to Generative AI** *([Verify](https://coursera.org/verify/7DSOUJ8047YX))* | Google Cloud × Coursera | Generative AI | Sep 2026 |
 | **Prompt Engineering for Improved Performance** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
 | **Prompt Engineering Best Practices** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
 | **Getting Started on Prompt Engineering with Generative AI** | Pluralsight Skills | Generative AI & Prompting | Jul 2026 |
@@ -76,8 +81,6 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
 | **Generative AI Foundations: Ethics, Issues, and Limitations** | Pluralsight Skills | Responsible AI | Jul 2026 |
 | **GenAI Advanced Technologies** *(Course & Skill Completion)* | IIHT Techademy | Generative AI | Nov 2024 |
 | **Gen AI Unveiled: A Journey into the Future of Intelligence** | IIHT Techademy | Generative AI | Oct 2024 |
-
----
 
 ### 📊 GitHub Stats
 
