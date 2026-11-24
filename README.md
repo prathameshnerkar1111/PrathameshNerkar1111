@@ -62,93 +62,108 @@ I'm a **Senior Software Test Engineer (SDET)** with **3+ years of comprehensive 
 
 ---
 
+---
+
 ### 🏆 Certifications & Continuous Learning
 
+#### 🛡️ QA, Test Automation & AI in Testing
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>ISTQB® CTFL</strong><br>
-      <sub>ISTQB® • Software Testing</sub><br>
-      <code>Certified</code>
+      <img src="https://img.shields.io/badge/ISTQB%C2%AE-CTFL_Certified-0052CC?style=flat-square&logo=checkmarx&logoColor=white" alt="ISTQB CTFL" /><br>
+      <strong>ISTQB® Certified Tester — Foundation Level</strong><br>
+      <sub>Software Testing &amp; QA Standards</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Playwright UI &amp; API (TS)</strong><br>
-      <sub>Udemy • SDET Automation</sub><br>
-      <code>Completed</code>
+      <img src="https://img.shields.io/badge/Udemy-Completed-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy Playwright" /><br>
+      <strong>Playwright E2E UI &amp; API Automation (TypeScript)</strong><br>
+      <sub>SDET Framework Engineering</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>GenAI in Software Testing</strong><br>
-      <sub>Simplilearn × Coursera • Oct 2026</sub><br>
-      <a href="https://coursera.org/verify/Z31C2QZ3XGY1">Verify (Z31C2QZ3XGY1)</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>GenAI for QA Masterclass</strong><br>
-      <sub>Packt × Coursera • Oct 2026</sub><br>
-      <a href="https://coursera.org/verify/DEQD1NM4RT30">Verify (DEQD1NM4RT30)</a>
-    </td>
-    <td width="33%" valign="top">
-      <strong>GitHub Foundations: Copilot</strong><br>
-      <sub>Pluralsight • Aug 2026</sub><br>
-      <code>AI Engineering</code>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Mindtree — SWIFT</strong><br>
-      <sub>Imarticus × Mindtree (NSDC)</sub><br>
-      <code>ID: EK1QXNE94472E2</code>
+      <a href="https://coursera.org/verify/Z31C2QZ3XGY1"><img src="https://img.shields.io/badge/Simplilearn_%C3%97_Coursera-Oct_2026-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Simplilearn Coursera" /></a><br>
+      <strong>Generative AI in Software Testing Training</strong><br>
+      <sub><a href="https://coursera.org/verify/Z31C2QZ3XGY1">Verify ID: <code>Z31C2QZ3XGY1</code></a></sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>Mindtree — Payment</strong><br>
-      <sub>Imarticus × Mindtree (NSDC)</sub><br>
-      <code>ID: EK1XVSK50691K9</code>
+      <a href="https://coursera.org/verify/DEQD1NM4RT30"><img src="https://img.shields.io/badge/Packt_%C3%97_Coursera-Oct_2026-F36F21?style=flat-square&logo=packt&logoColor=white" alt="Packt Coursera" /></a><br>
+      <strong>GenAI for QA — Masterclass in Testing &amp; Automation</strong><br>
+      <sub><a href="https://coursera.org/verify/DEQD1NM4RT30">Verify ID: <code>DEQD1NM4RT30</code></a></sub>
     </td>
     <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/Pluralsight-Aug_2026-F05B28?style=flat-square" alt="Pluralsight Copilot" /><br>
+      <strong>GitHub Foundations: GitHub Copilot</strong><br>
+      <sub>AI-Assisted Development &amp; QA</sub>
+    </td>
+    <td width="33%" valign="top"></td>
+  </tr>
+</table>
+
+#### 🏦 BFSI & Payments Domain
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Imarticus_%C3%97_Mindtree-NSDC_Verified-0F766E?style=flat-square" alt="Mindtree SWIFT" /><br>
+      <strong>Mindtree — SWIFT Domain Curriculum</strong><br>
+      <sub>Cross-Border Financial Messaging • ID: <code>EK1QXNE94472E2</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/Imarticus_%C3%97_Mindtree-NSDC_Verified-047857?style=flat-square" alt="Mindtree Payment" /><br>
+      <strong>Mindtree — Payment Domain Curriculum</strong><br>
+      <sub>BFSI &amp; Digital Payments • ID: <code>EK1XVSK50691K9</code></sub>
+    </td>
+  </tr>
+</table>
+
+#### 🤖 Generative AI & Prompt Engineering
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://coursera.org/verify/7DSOUJ8047YX"><img src="https://img.shields.io/badge/Google_Cloud_%C3%97_Coursera-Sep_2026-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Coursera" /></a><br>
       <strong>Introduction to Generative AI</strong><br>
-      <sub>Google Cloud × Coursera • Sep 2026</sub><br>
-      <a href="https://coursera.org/verify/7DSOUJ8047YX">Verify (7DSOUJ8047YX)</a>
+      <sub><a href="https://coursera.org/verify/7DSOUJ8047YX">Verify ID: <code>7DSOUJ8047YX</code></a></sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Prompt Eng: Improved Perf.</strong><br>
-      <sub>Pluralsight • Jul 2026</sub><br>
-      <code>Prompt Engineering</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Prompt Eng: Best Practices</strong><br>
-      <sub>Pluralsight • Jul 2026</sub><br>
-      <code>Prompt Engineering</code>
+      <img src="https://img.shields.io/badge/Pluralsight-Jul_2026-6366F1?style=flat-square" alt="Pluralsight" /><br>
+      <strong>Prompt Engineering for Improved Performance</strong><br>
+      <sub>LLM Optimization &amp; Prompting</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Prompt Eng: Getting Started</strong><br>
-      <sub>Pluralsight • Jul 2026</sub><br>
-      <code>Prompt Engineering</code>
-    </td>
-    <td width="33%" valign="top">
-      <strong>GenAI Leader: Fundamentals</strong><br>
-      <sub>Pluralsight • Jul 2026</sub><br>
-      <code>Generative AI</code>
+      <img src="https://img.shields.io/badge/Pluralsight-Jul_2026-6366F1?style=flat-square" alt="Pluralsight" /><br>
+      <strong>Prompt Engineering Best Practices</strong><br>
+      <sub>Structured Prompt Design</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <strong>GenAI Ethics &amp; Limitations</strong><br>
-      <sub>Pluralsight • Jul 2026</sub><br>
-      <code>Responsible AI</code>
+      <img src="https://img.shields.io/badge/Pluralsight-Jul_2026-6366F1?style=flat-square" alt="Pluralsight" /><br>
+      <strong>Getting Started on Prompt Engineering</strong><br>
+      <sub>Generative AI Foundations</sub>
     </td>
     <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/Pluralsight-Jul_2026-8B5CF6?style=flat-square" alt="Pluralsight" /><br>
+      <strong>(Generative AI Leader) Fundamentals of Gen AI</strong><br>
+      <sub>Enterprise GenAI Strategy</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/Pluralsight-Jul_2026-8B5CF6?style=flat-square" alt="Pluralsight" /><br>
+      <strong>Generative AI Foundations: Ethics &amp; Limitations</strong><br>
+      <sub>Responsible AI Governance</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://img.shields.io/badge/IIHT_Techademy-Nov_2024-334155?style=flat-square" alt="IIHT Techademy" /><br>
       <strong>GenAI Advanced Technologies</strong><br>
-      <sub>IIHT Techademy • Nov 2024</sub><br>
-      <code>Generative AI</code>
+      <sub>Course &amp; Skill Completion</sub>
     </td>
     <td width="33%" valign="top">
-      <strong>Gen AI Unveiled</strong><br>
-      <sub>IIHT Techademy • Oct 2024</sub><br>
-      <code>Generative AI</code>
+      <img src="https://img.shields.io/badge/IIHT_Techademy-Oct_2024-334155?style=flat-square" alt="IIHT Techademy" /><br>
+      <strong>Gen AI Unveiled: Future of Intelligence</strong><br>
+      <sub>Skill Completion</sub>
     </td>
+    <td width="33%" valign="top"></td>
   </tr>
 </table>
 
