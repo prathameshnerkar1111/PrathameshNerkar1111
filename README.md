@@ -2,14 +2,14 @@
 
 ### Senior SDET | AI-Driven QA Engineering | Playwright & TypeScript | API Automation | BFSI & Retail
 
-I'm a **Senior Software Test Engineer / Senior Quality Analyst** with **5.5+ years of comprehensive QA experience** delivering reliable, high-quality software across **BFSI and Retail** platforms. I specialize in architecting scalable **Playwright & TypeScript** E2E frameworks, automating **REST API** contract validation, and building **AI-powered QA agents** that accelerate requirement analysis, test generation, defect triage, and release reporting across the full STLC.
+I'm a **Senior Software Test Engineer / Senior Quality Analyst** with **2.8+ years of comprehensive QA experience** delivering reliable, high-quality software across **BFSI and Retail** platforms. I specialize in architecting scalable **Playwright & TypeScript** E2E frameworks, automating **REST API** contract validation, and building **AI-powered QA agents** that accelerate requirement analysis, test generation, defect triage, and release reporting across the full STLC.
 
 ---
 
 ### 🔍 What I Do
 
 - **AI-Driven & Agentic QA Engineering:** Designing LLM-powered QA workbenches using the **Gemini API** and structured prompt engineering to automate requirement extraction, BVA test data generation, Playwright/Postman script creation, root-cause defect triage, and Go/No-Go release reporting.
-- **UI & Cross-Browser Automation:** 2.7+ years of hands-on experience architecting and maintaining scalable E2E automation frameworks using **Playwright**, **TypeScript**, and **BrowserStack** for cross-browser and device coverage.
+- **UI & Cross-Browser Automation:** 2.8+ years of hands-on experience architecting and maintaining scalable E2E automation frameworks using **Playwright**, **TypeScript**, and **BrowserStack** for cross-browser and device coverage.
 - **API & Contract Validation:** Microservices testing, schema validation, idempotency verification, and CI/CD execution using **Postman**, **Newman CLI**, **Playwright (`APIRequestContext`)**, and **REST Assured**.
 - **Agile STLC, Documentation & Release Quality:** End-to-end quality ownership across **Functional, Regression, and Smoke Testing**, IEEE 829 documentation, bi-directional RTM, log troubleshooting with **Splunk**, and defect lifecycle management using **Jira**, **Zephyr**, **TestRail**, **Confluence**, and **Excel**.
 
@@ -77,7 +77,7 @@ I'm a **Senior Software Test Engineer / Senior Quality Analyst** with **5.5+ yea
 ### 🔍 What I Do
 
 - **AI-Driven & Agentic QA Engineering:** Designing LLM-powered QA workbenches using the **Gemini API** and structured prompt engineering to automate requirement extraction, BVA test data generation, Playwright/Postman script creation, root-cause defect triage, and Go/No-Go release reporting.
-- **UI & Cross-Browser Automation:** 2.7+ years of hands-on experience architecting and maintaining scalable E2E automation frameworks using **Playwright**, **TypeScript**, and **BrowserStack** for cross-browser and device coverage.
+- **UI & Cross-Browser Automation:** 2.8+ years of hands-on experience architecting and maintaining scalable E2E automation frameworks using **Playwright**, **TypeScript**, and **BrowserStack** for cross-browser and device coverage.
 - **API & Contract Validation:** Microservices testing, schema validation, idempotency verification, and CI/CD execution using **Postman**, **Newman CLI**, **Playwright (`APIRequestContext`)**, and **REST Assured**.
 - **Agile STLC, Documentation & Release Quality:** End-to-end quality ownership across **Functional, Regression, and Smoke Testing**, IEEE 829 documentation, bi-directional RTM, log troubleshooting with **Splunk**, and defect lifecycle management using **Jira**, **Zephyr**, **TestRail**, **Confluence**, and **Excel**.
 
